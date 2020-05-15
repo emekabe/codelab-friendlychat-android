@@ -15,6 +15,7 @@
  */
 package com.google.firebase.codelab.friendlychat;
 
+//Emeka Chukwulobe
 public class FriendlyMessage {
 
     private String id;
